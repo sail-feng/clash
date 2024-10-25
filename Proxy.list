@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,whatsmydns.me
 
 #Emby
 DOMAIN-SUFFIX,aliz.work
+IP-CIDR,74.48.0.46,no-resolve
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
