@@ -16,6 +16,9 @@ DOMAIN-KEYWORD,baidu
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,192.168.1.0/24,no-resolve
 
+#Oracle self-defined IPs
+IP-CIDR,129.159.40.125/32,no-resolve
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
