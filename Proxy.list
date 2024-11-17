@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,aliz.work
 IP-CIDR,74.48.0.46,no-resolve
 
+#test
+DOMAIN-SUFFIX,us.kg
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
