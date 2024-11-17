@@ -10,7 +10,7 @@ IP-CIDR,74.48.0.46,no-resolve
 
 #test
 DOMAIN-SUFFIX,us.kg
-IP-CIDR,192.9.237.144,no-resolve
+IP-CIDR,192.9.237.144/32,no-resolve
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
