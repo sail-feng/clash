@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,aliz.work
 IP-CIDR,74.48.0.46,no-resolve
 
 #test
-DOMAIN-SUFFIX,us.kg
 IP-CIDR,192.9.237.144/32,no-resolve
 
 # IP段匹配
