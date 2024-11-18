@@ -2,6 +2,7 @@
 
 #Oracle cloud
 IP-CIDR,192.9.237.144/32,no-resolve
+DOMAIN-SUFFIX,bullground.cloudns.be
 
 #棋弈家
 DOMAIN-SUFFIX,chessfull.com
