@@ -10,7 +10,6 @@ IP-CIDR,74.48.0.46,no-resolve
 
 #Oracle test
 DOMAIN-SUFFIX,bullground.us.kg
-IP-CIDR,192.9.237.144/32,no-resolve
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
