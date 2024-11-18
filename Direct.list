@@ -1,5 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+#Oracle cloud
+IP-CIDR,192.9.237.144/32,no-resolve
+
 #棋弈家
 DOMAIN-SUFFIX,chessfull.com
 
