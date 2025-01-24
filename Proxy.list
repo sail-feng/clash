@@ -2,7 +2,7 @@
 #Emby
 DOMAIN-SUFFIX,aliz.work
 DOMAIN-SUFFIX,emby.wtf
-IP-CIDR,74.48.0.46,no-resolve
+IP-CIDR,74.48.0.46/32,no-resolve
 
 
 DOMAIN-SUFFIX,6bcloud.top
