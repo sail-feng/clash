@@ -2,7 +2,7 @@
 #Oracle cloud
 IP-CIDR,192.9.237.144/32,no-resolve
 #目标端口为22，SSH服务
-#DST-PORT,22
+DST-PORT,22
 #棋弈家
 DOMAIN-SUFFIX,chessfull.com
 
